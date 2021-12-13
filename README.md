@@ -16,7 +16,7 @@
 ![img.png](img.png)
 
 ### Possible fix?
-* Located in the `strategic-fix` branch of this project.
+* Located in the https://github.com/strawhatasif/log4j-test/tree/strategic-fix.
 
 ### References:
 * https://www.lunasec.io/docs/blog/log4j-zero-day/

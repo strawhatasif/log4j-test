@@ -16,7 +16,6 @@
 ![img.png](img.png)
 
 ### Possible fix?
-* Located in the `strategic-fix` branch of this project.
 * The fix focuses on bringing in version `2.15.0` of `log4j-core` and `log4j-api` which resolves CVE-2021-44228.
 
 ### References:

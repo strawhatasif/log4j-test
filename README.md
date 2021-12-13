@@ -16,6 +16,7 @@
 ![img.png](img.png)
 
 ### Possible fix?
+* **IF YOU ARE USING MAVEN** - https://github.com/strawhatasif/log4j-test/tree/maven-variant
 * Located in the https://github.com/strawhatasif/log4j-test/tree/strategic-fix.
 
 ### References:
